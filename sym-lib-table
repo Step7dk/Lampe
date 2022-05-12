@@ -1,3 +1,2 @@
 (sym_lib_table
-  (lib (name "qi-lamp-charger-rescue")(type "Legacy")(uri "${KIPRJMOD}/qi-lamp-charger-rescue.lib")(options "")(descr ""))
 )

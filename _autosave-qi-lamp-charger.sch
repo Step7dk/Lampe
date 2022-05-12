@@ -143,7 +143,7 @@ F 3 "~" H 4900 4050 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L qi-lamp-charger-rescue:BQ51050BYFP-Battery_Management U?
+L Battery_Management:BQ51050BYFP U?
 U 1 1 6122ED8A
 P 5650 3450
 F 0 "U?" H 5650 4417 50  0000 C CNN
