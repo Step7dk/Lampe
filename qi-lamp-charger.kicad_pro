@@ -292,6 +292,11 @@
           "name": "Rating",
           "url": false,
           "visible": false
+        },
+        {
+          "name": "silk_text",
+          "url": false,
+          "visible": false
         }
       ],
       "intersheets_ref_own_page": false,
