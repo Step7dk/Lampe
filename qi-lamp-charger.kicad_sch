@@ -2970,7 +2970,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7d84f4c7-382f-4fc5-9171-688a1117998f)
   )
-  (text "C_{on} = 100n gives around 1 second to fall below V_{ON} < 0.3 V through internal 4 MΩ pull down resistor of SLG5NV1430V"
+  (text "When DTR is released C_{on} = 100n takes around 1 second to fall below V_{ON} < 0.3 V\nthrough internal 4 MΩ pull down resistor of SLG5NV1430V"
     (at 261.62 74.93 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8612006c-325f-49e8-9870-562656f8f82d)
