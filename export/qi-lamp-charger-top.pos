@@ -1,0 +1,29 @@
+### Module positions - created on Mon May 23 16:42:43 2022 ###
+### Printed by Pcbnew version (6.0.5)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                 PosX       PosY       Rot  Side
+C3        100n      C_0603_1608Metric                   101.7000  -112.5000   90.0000  top
+C20       10u       C_0805_2012Metric                   103.4500  -112.5000   90.0000  top
+C21       10u       C_0805_2012Metric                    99.9500  -112.5000   90.0000  top
+C24       330n      C_0603_1608Metric                   104.4000   -85.4000  -90.0000  top
+C25       330n      C_0603_1608Metric                   109.1000   -94.3000    0.0000  top
+C26       330n      C_0603_1608Metric                   112.6000  -112.2000  150.0000  top
+C27       330n      C_0603_1608Metric                    95.5000  -116.3000   90.0000  top
+C28       330n      C_0603_1608Metric                    83.9000  -104.2000  -150.0000  top
+C29       330n      C_0603_1608Metric                    88.2000   -87.9000  150.0000  top
+C30       330n      C_0603_1608Metric                   104.4000   -94.4000  -90.0000  top
+C31       330n      C_0603_1608Metric                   107.2000  -104.4000  180.0000  top
+C32       330n      C_0603_1608Metric                    97.5000  -103.7000  -90.0000  top
+C33       330n      C_0603_1608Metric                    92.8000   -95.6000    0.0000  top
+D1        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm   100.0000   -83.0000  180.0000  top
+D2        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm   114.7224   -91.5000  120.0000  top
+D3        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm   114.7224  -108.5000   60.0000  top
+D4        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm   100.0000  -117.0000    0.0000  top
+D5        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm    85.2776  -108.5000  -60.0000  top
+D6        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm    85.2776   -91.5000  -120.0000  top
+D7        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm   100.0000   -92.0000  180.0000  top
+D8        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm   108.0000  -100.0000   90.0000  top
+D9        SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm   100.0000  -108.0000    0.0000  top
+D10       SK6812    LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm    92.0000  -100.0000  -90.0000  top
+## End
