@@ -55,12 +55,13 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36
     ],
-    "visible_layers": "0001310_80000000",
-    "zone_display_mode": 1
+    "visible_layers": "0031310_80000001",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "qi-lamp-charger.kicad_prl",

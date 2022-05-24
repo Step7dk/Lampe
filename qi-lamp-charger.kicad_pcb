@@ -2032,10 +2032,15 @@
             (xy 0.375 1.925)
           ) (width 0) (fill yes))
       ) (tstamp f07d002f-bdf0-4883-b318-d2c2556f5b76))
-    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":Kharars-KiCAD-lib-3D:Texas_VQFN-RHL-20 (3_5x4_5).STEP"
+      (offset (xyz 0 0 0.125))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
     )
   )
 
