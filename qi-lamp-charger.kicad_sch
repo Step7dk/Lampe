@@ -3039,7 +3039,7 @@
     (effects (font (size 0.635 0.635)) (justify left bottom))
     (uuid 1816e371-8633-4ce0-a200-9c11e6e2f066)
   )
-  (text "Flashing\nauto_rst mode requires RST and DTR\nman_rst mode does not use RST and DTR\n\nReference:\nhttps://circuitjournal.com/esp8266-with-arduino-ide#connecting-via-usb"
+  (text "Flashing\nauto_rst mode requires RTS and DTR\nman_rst mode does not use RTS and DTR\n\nReference:\nhttps://circuitjournal.com/esp8266-with-arduino-ide#connecting-via-usb"
     (at 330.2 182.88 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 48e4d167-f7fd-414d-b1da-440c00743826)
