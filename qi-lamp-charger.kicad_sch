@@ -3063,7 +3063,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ce68f222-7700-4ddc-a328-28baef8c30a9)
   )
-  (text "Pin definitions:\nADC0   (Read)  Read battery voltage, range: 4.40V\nGPIO1  (Write)  UART\nGPIO2  (Write)  LED string data out\nGPIO3  (Read)  UART\nGPIO4  (Write)  Power switch control: high=run, low=stop, released=stop w. delay\nGPIO5  (Read)  Qi NTC status - if present\nGPIO5  (Write)  Qi send to TX: high=end charge, low=fault, released=??restart??\nGPIO9  (Read)  Qi charging status: high=off, low=on\nGPIO9  (Write)  Qi status LED D11: high=off, low=on\nGPIO12 (Read)  LED string data return (optional, for errorchecking)\nGPIO14 (Read)  Button status: high=released, low=pressed"
+  (text "Pin definitions:\nADC0   (Read)  Read battery voltage, range: 4.40V\nGPIO1  (Write)  UART\nGPIO2  (Write)  LED string data out\nGPIO3  (Read)  UART\nGPIO4  (Write)  Power switch control: high=run, low=stop, released=stop w. delay\nGPIO5  (Read)  Qi NTC status - if present\n   ''    (Write)  Qi send to TX: high=end charge, low=fault, released=??restart??\nGPIO9  (Read)  Qi charging status: high=off, low=on\n   ''    (Write)  Qi status LED D11: high=off, low=on\nGPIO12 (Read)  LED string data return (optional, for errorchecking)\nGPIO14 (Read)  Button status: high=released, low=pressed"
     (at 163.83 160.02 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ea3d78a1-b558-4282-afd2-029b6e260d50)
